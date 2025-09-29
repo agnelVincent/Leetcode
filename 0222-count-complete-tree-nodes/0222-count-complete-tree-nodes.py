@@ -8,8 +8,8 @@ class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         n = 0
         def dfs(node):
+            nonlocal n 
             if node:
-                nonlocal n 
                 n += 1
                 dfs(node.left)
                 dfs(node.right)
