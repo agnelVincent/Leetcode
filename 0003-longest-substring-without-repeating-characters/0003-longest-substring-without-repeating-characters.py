@@ -4,7 +4,7 @@ class Solution:
         ind = {}
         i = 0
         while i < len(s):
-            if s[i] in ind:
+            if s[i] in ind and ind[s[i]] >= start:
                 start = ind[s[i]] + 1
             ind[s[i]] = i
 
