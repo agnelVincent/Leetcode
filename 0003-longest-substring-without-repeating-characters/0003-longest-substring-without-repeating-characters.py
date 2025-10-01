@@ -10,7 +10,6 @@ class Solution:
 
             if i - start + 1 > max_len:
                 max_len = i  - start + 1
-                print(s[start : start + max_len])
             
             i+=1
         
