@@ -5,4 +5,4 @@ class Solution:
             return {char:[i for i,c in enumerate(string) if c == char] for char in x}
         ref1 = index_check(s)
         ref2 = index_check(t)
-        return [ref1[i] for i in ref1] == [ref2[i] for i in ref2]
+        return list(ref1.values()) == list(ref2.values())
