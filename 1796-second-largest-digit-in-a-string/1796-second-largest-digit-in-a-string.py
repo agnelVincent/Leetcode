@@ -4,8 +4,5 @@ class Solution:
         for i in s:
             if i.isdigit():
                 res.add(int(i))
-        
-        if not set or not len(res) > 1:
-            return -1
 
-        return sorted(list(res))[-2]
+        return sorted(list(res))[-2] if len(res) > 1 else -1
