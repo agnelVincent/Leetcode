@@ -1,6 +1,7 @@
 class Solution:
     def removeDigit(self, number: str, digit: str) -> str:        
         res = []
+        
         i = 0
 
         while i < len(number):
