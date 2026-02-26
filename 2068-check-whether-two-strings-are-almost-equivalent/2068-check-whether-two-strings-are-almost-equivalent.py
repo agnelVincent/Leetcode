@@ -1,6 +1,6 @@
 class Solution:
     def checkAlmostEquivalent(self, word1: str, word2: str) -> bool:
-        checking = list(dict.fromkeys(list(dict.fromkeys(word1)) + list(dict.fromkeys(word2))))
+        checking = list(dict.fromkeys(list(word1) + list(word2)))
 
         i = 0
 
