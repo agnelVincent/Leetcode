@@ -5,4 +5,5 @@ class Solution:
             if words[i] == words[i][::-1]:
                 return words[i]
             i += 1
+            
         return ''
