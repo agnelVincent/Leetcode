@@ -1,6 +1,5 @@
 class Solution:
-    def removeDigit(self, number: str, digit: str) -> str:
-        
+    def removeDigit(self, number: str, digit: str) -> str:        
         res = []
         i = 0
 
