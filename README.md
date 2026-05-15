@@ -7,4 +7,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3861-minimum-capacity-box](https://github.com/agnelVincent/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2278-percentage-of-letter-in-string](https://github.com/agnelVincent/Leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 <!---LeetCode Topics End-->
