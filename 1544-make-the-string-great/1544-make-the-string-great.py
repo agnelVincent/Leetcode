@@ -4,7 +4,6 @@ class Solution:
         letter = list(s)
 
         while i < len(letter) - 1:
-            print(letter,i)
             if letter[i].lower() == letter[i+1].lower():
                 if letter[i] != letter[i+1]:
                     letter.pop(i)
