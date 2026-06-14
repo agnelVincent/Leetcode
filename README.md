@@ -13,10 +13,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/agnelVincent/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1544-make-the-string-great](https://github.com/agnelVincent/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/agnelVincent/Leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1544-make-the-string-great](https://github.com/agnelVincent/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agnelVincent/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
