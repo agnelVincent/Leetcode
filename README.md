@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agnelVincent/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/agnelVincent/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/agnelVincent/Leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/agnelVincent/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## String
 | Problem Name | Difficulty |
