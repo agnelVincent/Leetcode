@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/agnelVincent/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1544-make-the-string-great](https://github.com/agnelVincent/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/agnelVincent/Leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
+| [2490-circular-sentence](https://github.com/agnelVincent/Leetcode/tree/main/2490-circular-sentence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
