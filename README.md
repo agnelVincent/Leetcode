@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/agnelVincent/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/agnelVincent/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/agnelVincent/Leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
+| [2299-strong-password-checker-ii](https://github.com/agnelVincent/Leetcode/tree/main/2299-strong-password-checker-ii/) | Easy |
 | [2490-circular-sentence](https://github.com/agnelVincent/Leetcode/tree/main/2490-circular-sentence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
