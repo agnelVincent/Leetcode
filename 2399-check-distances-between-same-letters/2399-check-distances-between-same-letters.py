@@ -1,9 +1,7 @@
 class Solution:
     def checkDistances(self, s: str, distance: List[int]) -> bool:
 
-        ind_check = list(dict.fromkeys(s))
-
-        indices = {char : [i for i in range(len(s)) if char == s[i]] for char in ind_check}
+        indices = {char : [i for i in range(len(s)) if char == s[i]] for char in s}
 
         i = 0
         while i < 26:
