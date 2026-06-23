@@ -5,8 +5,9 @@ class Solution:
 
         i = 0
         while i < 26:
-            if chr(97+i) in indices:
-                if indices[chr(97+i)][1] - indices[chr(97+i)][0] - 1 != distance[i]:
+            char = chr(97+i)
+            if char in indices:
+                if indices[char][1] - indices[char][0] - 1 != distance[i]:
                     return False
             i += 1
 
