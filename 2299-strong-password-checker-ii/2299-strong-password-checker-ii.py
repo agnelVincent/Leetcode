@@ -14,10 +14,11 @@ class Solution:
             if prev == password[i]:
                 return False
             if password[i].isalpha():
-                if password[i] == password[i].lower():
-                    lower_case = True
-                else:
-                    upper_case = True
+                if not upper_case or not lower_case:
+                    if password[i] == password[i].lower():
+                        lower_case = True
+                    else:
+                        upper_case = True
             if password[i].isdigit():
                 one_digit = True
             else:
