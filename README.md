@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2299-strong-password-checker-ii](https://github.com/agnelVincent/Leetcode/tree/main/2299-strong-password-checker-ii/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/agnelVincent/Leetcode/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2490-circular-sentence](https://github.com/agnelVincent/Leetcode/tree/main/2490-circular-sentence/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/agnelVincent/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
