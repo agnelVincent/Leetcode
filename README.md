@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/agnelVincent/Leetcode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/agnelVincent/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/agnelVincent/Leetcode/tree/main/2399-check-distances-between-same-letters/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/agnelVincent/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/agnelVincent/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -40,10 +41,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agnelVincent/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/agnelVincent/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/agnelVincent/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/agnelVincent/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/agnelVincent/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
