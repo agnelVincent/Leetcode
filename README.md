@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-count-prefixes-of-a-given-string](https://github.com/agnelVincent/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/agnelVincent/Leetcode/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/agnelVincent/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/agnelVincent/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/agnelVincent/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2299-strong-password-checker-ii](https://github.com/agnelVincent/Leetcode/tree/main/2299-strong-password-checker-ii/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/agnelVincent/Leetcode/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2490-circular-sentence](https://github.com/agnelVincent/Leetcode/tree/main/2490-circular-sentence/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/agnelVincent/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/agnelVincent/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -68,4 +70,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/agnelVincent/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/agnelVincent/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 <!---LeetCode Topics End-->
