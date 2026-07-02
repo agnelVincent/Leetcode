@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2490-circular-sentence](https://github.com/agnelVincent/Leetcode/tree/main/2490-circular-sentence/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/agnelVincent/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/agnelVincent/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/agnelVincent/Leetcode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +72,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/agnelVincent/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/agnelVincent/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/agnelVincent/Leetcode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 <!---LeetCode Topics End-->
