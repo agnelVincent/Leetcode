@@ -1,8 +1,6 @@
 class Solution:
     def modifyString(self, s: str) -> str:
-        ch = 97
         res = list(s)
-
         i = 0
         while i < len(res):
             if res[i] == '?':
