@@ -17,4 +17,4 @@ class Solution:
                         break
             i += 1
         
-        return ''.join(res)
+        return res
