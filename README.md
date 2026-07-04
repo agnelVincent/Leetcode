@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0707-design-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
@@ -102,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
