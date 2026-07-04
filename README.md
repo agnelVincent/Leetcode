@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/agnelVincent/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/agnelVincent/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
