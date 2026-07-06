@@ -11,44 +11,31 @@ class LinkedList:
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
     
-        res_head = None
+        dummy = ListNode(0)
+        current = dummy
         left = 0
-        currentl1 = l1
-        currentl2 = l2
-
+        
         while True:
-            if not currentl1 and not currentl2 and not left:
-                break
-                
-            val = 0
-            val += left
-            if currentl1:
-                val += currentl1.val
-                currentl1 = currentl1.next
-            if currentl2:
-                val += currentl2.val
-                currentl2 = currentl2.next
+            val = left
+            if l1:
+                val += l1.val
+                l1 = l1.next
+
+            if l2:
+                val += l2.val
+                l2 = l2.next
             
-            if val > 9:
-                v = str(val)
-                if not res_head:
-                    res_head = ListNode(int(v[-1]))
-                    current = res_head
-                    left = int(v[:-1])
-                    continue
-                else:
-                    current.next = ListNode(int(v[-1]))
-                left = int(v[:-1])
+            left = val // 10
+            val = val % 10
 
-            else:
-                if not res_head:
-                    res_head = ListNode(val)
-                    current = res_head
-                    continue
-                else:
-                    current.next = ListNode(val)
-                left = 0
-
+            current.next = ListNode(val)
             current = current.next
 
-        return res_head
+            if not l1 and not l2 and not left:
+                break
+
+        return dummy.next
+            
+
+
+
