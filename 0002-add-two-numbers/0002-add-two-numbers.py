@@ -14,8 +14,11 @@ class Solution:
         dummy = ListNode(0)
         current = dummy
         left = 0
-        
+
         while True:
+            if not l1 and not l2 and not left:
+                break
+
             val = left
             if l1:
                 val += l1.val
@@ -26,13 +29,9 @@ class Solution:
                 l2 = l2.next
             
             left = val // 10
-            val = val % 10
 
-            current.next = ListNode(val)
+            current.next = ListNode(val % 10)
             current = current.next
-
-            if not l1 and not l2 and not left:
-                break
 
         return dummy.next
             
