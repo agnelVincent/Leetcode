@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/agnelVincent/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/agnelVincent/Leetcode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 ## Enumeration
@@ -92,12 +93,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0707-design-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
