@@ -19,5 +19,6 @@ class Solution:
                 max_val = node.val
                 node.next = last_visited
                 last_visited = node
+                
         return last_visited
             
