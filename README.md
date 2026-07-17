@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0038-count-and-say](https://github.com/agnelVincent/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/agnelVincent/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1544-make-the-string-great](https://github.com/agnelVincent/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/agnelVincent/Leetcode/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
