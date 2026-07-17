@@ -2,6 +2,7 @@ class Solution:
     def countAndSay(self, n: int) -> str:
         i = 1
         res = '1'
+        
         while i < n:
             temp_res = ''
             x = 0
