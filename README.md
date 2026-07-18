@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/agnelVincent/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/agnelVincent/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agnelVincent/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/agnelVincent/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0707-design-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -119,4 +121,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0707-design-linked-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
