@@ -21,7 +21,7 @@ class Solution:
         while i < len(stack):
             stack[i-1].right = stack[i]
             stack[i - 1].left = None
-            stack[i].left = None
+            # stack[i].left = None
             i += 1
 
         
