@@ -145,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0184-department-highest-salary](https://github.com/agnelVincent/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
