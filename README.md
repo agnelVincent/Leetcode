@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/agnelVincent/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/agnelVincent/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/agnelVincent/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/agnelVincent/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/agnelVincent/Leetcode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/agnelVincent/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
