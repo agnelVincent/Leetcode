@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/agnelVincent/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agnelVincent/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/agnelVincent/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/agnelVincent/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/agnelVincent/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/agnelVincent/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/agnelVincent/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/agnelVincent/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/agnelVincent/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/agnelVincent/Leetcode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/agnelVincent/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
