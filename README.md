@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/agnelVincent/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0038-count-and-say](https://github.com/agnelVincent/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/agnelVincent/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/agnelVincent/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/agnelVincent/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/agnelVincent/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
@@ -164,4 +166,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/agnelVincent/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/agnelVincent/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
