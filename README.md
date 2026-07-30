@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/agnelVincent/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0038-count-and-say](https://github.com/agnelVincent/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/agnelVincent/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0065-valid-number](https://github.com/agnelVincent/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/agnelVincent/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1544-make-the-string-great](https://github.com/agnelVincent/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
