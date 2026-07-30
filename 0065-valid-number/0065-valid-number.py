@@ -29,7 +29,7 @@ class Solution:
                 if i - 1 < 0 and len(s) == 1:
                     return False 
                 if i + 1 < len(s):
-                    if not s[i + 1].isdigit and not s[i + 1] == 'e' and not s[i + 1] == 'E':
+                    if not s[i + 1].isdigit() and not s[i + 1] == 'e' and not s[i + 1] == 'E':
                         return False
                 hasdot = True
             
