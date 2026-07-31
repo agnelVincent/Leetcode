@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/agnelVincent/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/agnelVincent/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0038-count-and-say](https://github.com/agnelVincent/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/agnelVincent/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0065-valid-number](https://github.com/agnelVincent/Leetcode/tree/main/0065-valid-number/) | Hard |
