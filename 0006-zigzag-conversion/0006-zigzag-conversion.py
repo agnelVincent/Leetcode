@@ -20,7 +20,7 @@ class Solution:
             temp[-1] = temp[-1] + ' ' * (numRows - len(temp[-1])) 
 
         res = ''
-        print(temp)
+
         i = 0
         while i < numRows:
             x = 0
