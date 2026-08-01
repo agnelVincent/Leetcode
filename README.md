@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/agnelVincent/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0386-lexicographical-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/agnelVincent/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 <!---LeetCode Topics End-->
