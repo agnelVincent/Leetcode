@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/agnelVincent/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/agnelVincent/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0832-flipping-an-image](https://github.com/agnelVincent/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/agnelVincent/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/agnelVincent/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/agnelVincent/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/agnelVincent/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,5 +190,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/agnelVincent/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 <!---LeetCode Topics End-->
