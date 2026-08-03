@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/agnelVincent/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/agnelVincent/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0065-valid-number](https://github.com/agnelVincent/Leetcode/tree/main/0065-valid-number/) | Hard |
+| [0290-word-pattern](https://github.com/agnelVincent/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0443-string-compression](https://github.com/agnelVincent/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1324-print-words-vertically](https://github.com/agnelVincent/Leetcode/tree/main/1324-print-words-vertically/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0290-word-pattern](https://github.com/agnelVincent/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/agnelVincent/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/agnelVincent/Leetcode/tree/main/2399-check-distances-between-same-letters/) | Easy |
