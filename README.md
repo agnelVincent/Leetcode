@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2399-check-distances-between-same-letters](https://github.com/agnelVincent/Leetcode/tree/main/2399-check-distances-between-same-letters/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/agnelVincent/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/agnelVincent/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/agnelVincent/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/agnelVincent/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/agnelVincent/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/agnelVincent/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/agnelVincent/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/agnelVincent/Leetcode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/agnelVincent/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Enumeration
