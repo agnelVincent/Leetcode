@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0832-flipping-an-image](https://github.com/agnelVincent/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1324-print-words-vertically](https://github.com/agnelVincent/Leetcode/tree/main/1324-print-words-vertically/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/agnelVincent/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agnelVincent/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/agnelVincent/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0065-valid-number](https://github.com/agnelVincent/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0443-string-compression](https://github.com/agnelVincent/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1324-print-words-vertically](https://github.com/agnelVincent/Leetcode/tree/main/1324-print-words-vertically/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/agnelVincent/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1544-make-the-string-great](https://github.com/agnelVincent/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/agnelVincent/Leetcode/tree/main/1576-replace-all-s-to-avoid-consecutive-repeating-characters/) | Easy |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/agnelVincent/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0832-flipping-an-image](https://github.com/agnelVincent/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1324-print-words-vertically](https://github.com/agnelVincent/Leetcode/tree/main/1324-print-words-vertically/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agnelVincent/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/agnelVincent/Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/agnelVincent/Leetcode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
