@@ -6,6 +6,7 @@ class Solution:
         check = s.split()
         if len(check) != len(pattern):
             return False
+            
         while i < len(check):
             if check[i] not in pat and pattern[i] not in pat2:
                 pat2[pattern[i]] = check[i]
@@ -19,7 +20,7 @@ class Solution:
                         return False
                 if pat[check[i]] != pattern[i] or pat2[pattern[i]] != check[i]:
                     return False
-            print(pat, pat2)
+
             i += 1
 
         return True
