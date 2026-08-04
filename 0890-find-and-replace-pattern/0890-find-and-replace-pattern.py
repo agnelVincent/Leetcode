@@ -7,7 +7,6 @@ class Solution:
                 i += 1
                 continue
 
-            print(i)
             pat = {}
             visited = set()
             x = 0
