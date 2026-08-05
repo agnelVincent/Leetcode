@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0832-flipping-an-image](https://github.com/agnelVincent/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/agnelVincent/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1324-print-words-vertically](https://github.com/agnelVincent/Leetcode/tree/main/1324-print-words-vertically/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/agnelVincent/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agnelVincent/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/agnelVincent/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/agnelVincent/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
@@ -173,10 +175,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/agnelVincent/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +214,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
