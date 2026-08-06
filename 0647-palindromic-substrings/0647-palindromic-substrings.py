@@ -14,6 +14,7 @@ class Solution:
             if len(c[key]) == 1:
                 continue
             temp = c[key]
+            
             for x in range(len(temp)-1):
                 for y in range(x+1,len(temp)):
                     check = s[temp[x]:temp[y]+1]
