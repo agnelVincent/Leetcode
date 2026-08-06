@@ -3,8 +3,8 @@ class Solution:
         res = ''
         i = 0
         x = 0
+        
         while i < len(s):
-            # print(i,spaces[x],x,res)
             if x < len(spaces) and i == spaces[x]:
                 res += ' '
                 x += 1
