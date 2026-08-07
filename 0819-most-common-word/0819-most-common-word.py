@@ -17,4 +17,4 @@ class Solution:
             else:
                 i += 1
 
-        return sorted(freq.items(),key=lambda i : (i[1],i[0]))[-1][0]
+        return sorted(freq.items(),key=lambda i : i[1])[-1][0]
