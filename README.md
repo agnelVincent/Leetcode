@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/agnelVincent/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0819-most-common-word](https://github.com/agnelVincent/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0832-flipping-an-image](https://github.com/agnelVincent/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/agnelVincent/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0647-palindromic-substrings](https://github.com/agnelVincent/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0796-rotate-string](https://github.com/agnelVincent/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0819-most-common-word](https://github.com/agnelVincent/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/agnelVincent/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1324-print-words-vertically](https://github.com/agnelVincent/Leetcode/tree/main/1324-print-words-vertically/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/agnelVincent/Leetcode/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/agnelVincent/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0819-most-common-word](https://github.com/agnelVincent/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/agnelVincent/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [2248-intersection-of-multiple-arrays](https://github.com/agnelVincent/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2399-check-distances-between-same-letters](https://github.com/agnelVincent/Leetcode/tree/main/2399-check-distances-between-same-letters/) | Easy |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/agnelVincent/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0819-most-common-word](https://github.com/agnelVincent/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [2248-intersection-of-multiple-arrays](https://github.com/agnelVincent/Leetcode/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/agnelVincent/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Math
