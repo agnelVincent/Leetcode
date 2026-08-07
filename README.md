@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-find-and-replace-pattern](https://github.com/agnelVincent/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1324-print-words-vertically](https://github.com/agnelVincent/Leetcode/tree/main/1324-print-words-vertically/) | Medium |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/agnelVincent/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/agnelVincent/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agnelVincent/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/agnelVincent/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/agnelVincent/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/agnelVincent/Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/agnelVincent/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/agnelVincent/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/agnelVincent/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/agnelVincent/Leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/agnelVincent/Leetcode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
@@ -239,4 +241,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/agnelVincent/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 <!---LeetCode Topics End-->
