@@ -8,11 +8,4 @@ class Solution:
             freq[nums[i]] += 1
             i += 1
 
-        res = []
-        i = 0
-        
-        for i in freq:
-            if freq[i] > len(nums) / 3:
-                res.append(i)
-        
-        return res
+        return [i for i in freq if freq[i] > len(nums) / 3]
