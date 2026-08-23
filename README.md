@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/agnelVincent/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/agnelVincent/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0912-sort-an-array](https://github.com/agnelVincent/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [0999-available-captures-for-rook](https://github.com/agnelVincent/Leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1324-print-words-vertically](https://github.com/agnelVincent/Leetcode/tree/main/1324-print-words-vertically/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/agnelVincent/Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/agnelVincent/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/agnelVincent/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0832-flipping-an-image](https://github.com/agnelVincent/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/agnelVincent/Leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1324-print-words-vertically](https://github.com/agnelVincent/Leetcode/tree/main/1324-print-words-vertically/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/agnelVincent/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/agnelVincent/Leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/agnelVincent/Leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/agnelVincent/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/agnelVincent/Leetcode/tree/main/0999-available-captures-for-rook/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
